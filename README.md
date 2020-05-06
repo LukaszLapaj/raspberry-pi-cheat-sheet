@@ -1,9 +1,9 @@
 # Raspberry Pi 4 Cheat Sheet
-List of commands, configurations and tips for Raspberry Pi and Linux beginners.
+List of commands, configurations and tips for Raspberry Pi and Linux beginners. Also known as a quick start guide.
 
 # Raspberry Pi / Linux
 ## Enable SSH
-To enable SSH, which is disabled by default in RPi, just put empty file with no extension `ssh` on `/boot` partition.
+To enable SSH, which is disabled by default in Raspbian, just put an empty `ssh` file with no extension on `/boot` partition.
 
 ## Useful configs
 Go to `/boot/config.txt` and add these entries in the end of the file.
@@ -87,6 +87,32 @@ tail -f -n 30 /var/log/syslog
 ##### Testing audio on default output
 ```
 speaker-test -c2 -twav -l7
+```
+
+## MicroSD
+##### Benchmark
+```
+sh /usr/share/agnostics/sdtest.sh
+```
+
+## Read temperature
+##### One time read CPU temp
+```
+echo "$(($(</sys/class/thermal/thermal_zone0/temp)/1000))'C"
+```
+##### One time read GPU temp
+```
+vcgencmd measure_temp
+```
+##### One time read GPU temp
+```
+watch -n 0.1 vcgencmd measure_temp
+```
+
+## Free memory
+##### Currently free memory
+```
+free -m
 ```
 
 ## Cron
