@@ -7,6 +7,10 @@ To enable SSH, which is disabled by default in Raspbian, just put an empty `ssh`
 
 ## Useful configs
 Go to `/boot/config.txt` and add these entries in the end of the file.
+##### Or directly from terminal
+```
+sudo nano /boot/config.txt
+```
 ### Overclocking
 ##### CPU
 ```
@@ -109,8 +113,8 @@ vcgencmd measure_temp
 watch -n 0.1 vcgencmd measure_temp
 ```
 
-## Free memory
-##### Currently free memory
+## RAM
+##### Currently free memory and swap usage
 ```
 free -m
 ```
