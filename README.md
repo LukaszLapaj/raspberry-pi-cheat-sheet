@@ -99,6 +99,12 @@ speaker-test -c2 -twav -l7
 sh /usr/share/agnostics/sdtest.sh
 ```
 
+## Chromium / Chrome
+##### Chromium screen tearing fix
+```
+sudo rm /etc/xdg/autostart/xcompmgr.desktop
+```
+
 ## Read temperature
 ##### One time read CPU temp
 ```
