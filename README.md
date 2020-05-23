@@ -143,11 +143,22 @@ grep CRON /var/log/syslog
 sudo curl -sSL https://install.pi-hole.net | sudo bash
 ```
 
+## Upgrade Pi-hole
+##### Download and install latest version
+```
+pi-hole -up
+```
+
 ## Pi-hole Crontab
 ##### Edit pi-hole crontab for auto-updates
 ```
 sudo nano /etc/cron.d/pihole
 ```
+##### And change appropriate line to in example:
+```
+0 2 * * *   root    PATH="$PATH:/usr/local/bin/" pihole updateGravity >/var/log/pihole_updateGravity.log || cat /var/log/pihole_updateGravity.log
+```
+##### Which means everyday at 2AM
 
 ## Update Gravity
 ##### Download latest blocklists
