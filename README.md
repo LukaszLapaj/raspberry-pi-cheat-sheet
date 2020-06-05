@@ -146,7 +146,7 @@ sudo curl -sSL https://install.pi-hole.net | sudo bash
 ## Upgrade Pi-hole
 ##### Download and install latest version
 ```
-pi-hole -up
+pihole -up
 ```
 
 ## Pi-hole Crontab
@@ -163,7 +163,7 @@ sudo nano /etc/cron.d/pihole
 ## Update Gravity
 ##### Download latest blocklists
 ```
-pi-hole updateGravity
+pihole updateGravity
 ```
 
 ## Gravity update logs
