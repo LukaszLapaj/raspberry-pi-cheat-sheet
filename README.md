@@ -41,6 +41,16 @@ arm_64bit=1
 disable_splash=1
 ```
 
+##### Disable Wi-Fi
+```
+dtoverlay=disable-wifi
+```
+
+##### Disable Bluetooth
+```
+dtoverlay=disable-bt
+```
+
 ##### Disable camera
 ```
 start_x=0
