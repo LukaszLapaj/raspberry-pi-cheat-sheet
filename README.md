@@ -106,6 +106,9 @@ speaker-test -c2 -twav -l7
 ## MicroSD
 ##### Benchmark
 ```
+sudo apt install agnostics
+```
+```
 sh /usr/share/agnostics/sdtest.sh
 ```
 
