@@ -156,8 +156,14 @@ grep CRON /var/log/syslog
 sudo curl -sSL https://install.pi-hole.net | sudo bash
 ```
 
+## Set password
+#### Set password for the dashboard or completely remove it
+```
+pihole -a -p
+```
+
 ## Upgrade Pi-hole
-##### Download and install latest version
+##### Download and install the latest version
 ```
 pihole -up
 ```
