@@ -2,6 +2,9 @@
 List of commands, configurations and tips for Raspberry Pi and Linux beginners. Also known as a quick start guide.
 
 # Raspberry Pi / Linux
+## Pi user default password
+Default password for pi user is "raspberry"
+
 ## Enable SSH
 To enable SSH, which is disabled by default in Raspbian, just put an empty `ssh` file with no extension on `/boot` partition.
 
@@ -147,6 +150,12 @@ crontab -e
 ##### View Cron logs
 ```
 grep CRON /var/log/syslog
+```
+
+## Network
+Check public IP
+```
+curl ifconfig.me
 ```
 
 # Pi-hole
