@@ -82,6 +82,10 @@ sudo shutdown -h now
 ```
 sudo shutdown -r now
 ```
+##### Uptime
+```
+uptime
+```
 
 ## Kernel version
 ##### Check kernel version and info
