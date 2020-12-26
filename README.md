@@ -149,6 +149,12 @@ watch -n 0.1 vcgencmd measure_temp
 free -m
 ```
 
+## Date
+##### Display date and time
+```
+date
+```
+
 ## Cron
 ##### View cron tab
 ```
