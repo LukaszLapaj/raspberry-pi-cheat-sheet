@@ -192,7 +192,7 @@ sudo nano /etc/cron.d/pihole
 ```
 ##### And change appropriate line to in example:
 ```
-0 2 * * *   root    PATH="$PATH:/usr/local/bin/" pihole updateGravity >/var/log/pihole_updateGravity.log || cat /var/log/pihole_updateGravity.log
+0 2 * * *   root    PATH="$PATH:/usr/sbin:/usr/local/bin/" pihole updateGravity >/var/log/pihole_updateGravity.log || cat /var/log/pihole_updateGravity.log
 ```
 ##### Which means everyday at 2AM
 
