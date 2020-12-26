@@ -84,7 +84,11 @@ sudo shutdown -r now
 ```
 ##### Uptime
 ```
-uptime
+uptime -p
+```
+##### Last boot
+```
+uptime -s
 ```
 
 ## Kernel version
