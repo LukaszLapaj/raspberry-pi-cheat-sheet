@@ -86,7 +86,7 @@ sudo shutdown -r now
 ```
 uptime -p
 ```
-##### Last boot
+##### Last boot time
 ```
 uptime -s
 ```
@@ -174,7 +174,7 @@ sudo curl -sSL https://install.pi-hole.net | sudo bash
 ```
 
 ## Set password
-#### Set password for the dashboard or completely remove it
+##### Set password for the dashboard or completely remove it
 ```
 pihole -a -p
 ```
