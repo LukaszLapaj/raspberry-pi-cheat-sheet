@@ -241,3 +241,17 @@ curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
 sudo apt-get install docker-ce docker-ce-cli containerd.io
 ```
 
+# Speedtest.net
+## Installation
+##### Pre-requirements
+```
+sudo apt-get install gnupg1 apt-transport-https dirmngr
+export INSTALL_KEY=379CE192D401AB61
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys $INSTALL_KEY
+echo "deb https://ookla.bintray.com/debian generic main" | sudo tee  /etc/apt/sources.list.d/speedtest.list
+```
+##### Install
+```
+sudo apt-get install speedtest
+```
+
