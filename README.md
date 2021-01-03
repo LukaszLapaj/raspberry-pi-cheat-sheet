@@ -183,7 +183,7 @@ sudo apt-key del "2EBF 997C 15BD A244 B6EB  F5D8 4773 BD5E 130D 1D45"
 ```
 
 ## Network
-Check public IP
+##### Check public IP
 ```
 curl ifconfig.me
 ```
