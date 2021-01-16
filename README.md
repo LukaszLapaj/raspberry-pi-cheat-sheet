@@ -230,6 +230,27 @@ pihole updateGravity
 tail -f -n 30 /var/log/pihole_updateGravity.log
 ```
 
+## Set additional DNS servers
+##### Pi-hole dashboard allows to set only 1 custom DNS server
+```
+sudo nano /etc/pihole/setupVars.conf
+```
+##### Then add new servers like this
+```
+PIHOLE_DNS_1=8.8.8.8
+PIHOLE_DNS_2=2001:4860:4860:0:0:0:0:8888
+PIHOLE_DNS_3=1.1.1.1
+PIHOLE_DNS_4=2606:4700:4700::1111
+PIHOLE_DNS_5=62.179.1.60
+PIHOLE_DNS_6=62.179.1.61
+PIHOLE_DNS_7=62.179.1.62
+PIHOLE_DNS_8=62.179.1.63
+```
+##### Restart service
+```
+sudo service pihole-FTL restart
+```
+
 # Node.js
 ## Installation
 ##### Preinstalled Raspberry Pi OS repository version is outdated, use version below:
