@@ -1,6 +1,14 @@
 # Raspberry Pi 4 Cheat Sheet
 List of commands, configurations and tips for Raspberry Pi and Linux beginners. Also known as a quick start guide.
 
+# Table of contents
+
+* [Raspberry Pi OS / Linux](#raspberry-pi-os--linux)
+* [Pi-hole](#pi-hole)
+* [Node.js](#nodejs)
+* [Docker](#docker)
+* [Speedtest.net](#speedtestnet)
+
 # Raspberry Pi OS / Linux
 ## Pi user default password
 Default password for pi user is "raspberry"
