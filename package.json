@@ -1,5 +1,6 @@
 {
   "name": "raspberry-pi-cheat-sheet",
+  "homepage": "https://lukaszlapaj.github.io/raspberry-pi-cheat-sheet/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
