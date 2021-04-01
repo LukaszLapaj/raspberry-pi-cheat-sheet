@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/raspberry-pi-cheat-sheet/static/css/main.a8443e78.chunk.css",
+    "main.css": "/raspberry-pi-cheat-sheet/static/css/main.211dbea4.chunk.css",
     "main.js": "/raspberry-pi-cheat-sheet/static/js/main.cc8108fd.chunk.js",
     "main.js.map": "/raspberry-pi-cheat-sheet/static/js/main.cc8108fd.chunk.js.map",
     "runtime-main.js": "/raspberry-pi-cheat-sheet/static/js/runtime-main.3d358c3f.js",
@@ -10,13 +10,13 @@
     "static/js/3.5dffb7ed.chunk.js": "/raspberry-pi-cheat-sheet/static/js/3.5dffb7ed.chunk.js",
     "static/js/3.5dffb7ed.chunk.js.map": "/raspberry-pi-cheat-sheet/static/js/3.5dffb7ed.chunk.js.map",
     "index.html": "/raspberry-pi-cheat-sheet/index.html",
-    "static/css/main.a8443e78.chunk.css.map": "/raspberry-pi-cheat-sheet/static/css/main.a8443e78.chunk.css.map",
+    "static/css/main.211dbea4.chunk.css.map": "/raspberry-pi-cheat-sheet/static/css/main.211dbea4.chunk.css.map",
     "static/js/2.5b2a9dbb.chunk.js.LICENSE.txt": "/raspberry-pi-cheat-sheet/static/js/2.5b2a9dbb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3d358c3f.js",
     "static/js/2.5b2a9dbb.chunk.js",
-    "static/css/main.a8443e78.chunk.css",
+    "static/css/main.211dbea4.chunk.css",
     "static/js/main.cc8108fd.chunk.js"
   ]
 }
