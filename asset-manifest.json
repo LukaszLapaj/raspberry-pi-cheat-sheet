@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/raspberry-pi-cheat-sheet/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/raspberry-pi-cheat-sheet/static/js/main.ef5363d6.chunk.js",
-    "main.js.map": "/raspberry-pi-cheat-sheet/static/js/main.ef5363d6.chunk.js.map",
-    "runtime-main.js": "/raspberry-pi-cheat-sheet/static/js/runtime-main.460a5a23.js",
-    "runtime-main.js.map": "/raspberry-pi-cheat-sheet/static/js/runtime-main.460a5a23.js.map",
-    "static/js/2.e17cb590.chunk.js": "/raspberry-pi-cheat-sheet/static/js/2.e17cb590.chunk.js",
-    "static/js/2.e17cb590.chunk.js.map": "/raspberry-pi-cheat-sheet/static/js/2.e17cb590.chunk.js.map",
-    "static/js/3.640f6250.chunk.js": "/raspberry-pi-cheat-sheet/static/js/3.640f6250.chunk.js",
-    "static/js/3.640f6250.chunk.js.map": "/raspberry-pi-cheat-sheet/static/js/3.640f6250.chunk.js.map",
+    "main.css": "/raspberry-pi-cheat-sheet/static/css/main.dba1f31e.chunk.css",
+    "main.js": "/raspberry-pi-cheat-sheet/static/js/main.5f440f0c.chunk.js",
+    "main.js.map": "/raspberry-pi-cheat-sheet/static/js/main.5f440f0c.chunk.js.map",
+    "runtime-main.js": "/raspberry-pi-cheat-sheet/static/js/runtime-main.3d358c3f.js",
+    "runtime-main.js.map": "/raspberry-pi-cheat-sheet/static/js/runtime-main.3d358c3f.js.map",
+    "static/js/2.bd69b174.chunk.js": "/raspberry-pi-cheat-sheet/static/js/2.bd69b174.chunk.js",
+    "static/js/2.bd69b174.chunk.js.map": "/raspberry-pi-cheat-sheet/static/js/2.bd69b174.chunk.js.map",
+    "static/js/3.5dffb7ed.chunk.js": "/raspberry-pi-cheat-sheet/static/js/3.5dffb7ed.chunk.js",
+    "static/js/3.5dffb7ed.chunk.js.map": "/raspberry-pi-cheat-sheet/static/js/3.5dffb7ed.chunk.js.map",
     "index.html": "/raspberry-pi-cheat-sheet/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/raspberry-pi-cheat-sheet/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.e17cb590.chunk.js.LICENSE.txt": "/raspberry-pi-cheat-sheet/static/js/2.e17cb590.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/raspberry-pi-cheat-sheet/static/media/logo.6ce24c58.svg"
+    "static/css/main.dba1f31e.chunk.css.map": "/raspberry-pi-cheat-sheet/static/css/main.dba1f31e.chunk.css.map",
+    "static/js/2.bd69b174.chunk.js.LICENSE.txt": "/raspberry-pi-cheat-sheet/static/js/2.bd69b174.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.460a5a23.js",
-    "static/js/2.e17cb590.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.ef5363d6.chunk.js"
+    "static/js/runtime-main.3d358c3f.js",
+    "static/js/2.bd69b174.chunk.js",
+    "static/css/main.dba1f31e.chunk.css",
+    "static/js/main.5f440f0c.chunk.js"
   ]
 }
