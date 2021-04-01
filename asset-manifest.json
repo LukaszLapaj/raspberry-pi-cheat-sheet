@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/raspberry-pi-cheat-sheet/static/css/main.dba1f31e.chunk.css",
-    "main.js": "/raspberry-pi-cheat-sheet/static/js/main.5f440f0c.chunk.js",
-    "main.js.map": "/raspberry-pi-cheat-sheet/static/js/main.5f440f0c.chunk.js.map",
+    "main.css": "/raspberry-pi-cheat-sheet/static/css/main.a8443e78.chunk.css",
+    "main.js": "/raspberry-pi-cheat-sheet/static/js/main.cc8108fd.chunk.js",
+    "main.js.map": "/raspberry-pi-cheat-sheet/static/js/main.cc8108fd.chunk.js.map",
     "runtime-main.js": "/raspberry-pi-cheat-sheet/static/js/runtime-main.3d358c3f.js",
     "runtime-main.js.map": "/raspberry-pi-cheat-sheet/static/js/runtime-main.3d358c3f.js.map",
-    "static/js/2.bd69b174.chunk.js": "/raspberry-pi-cheat-sheet/static/js/2.bd69b174.chunk.js",
-    "static/js/2.bd69b174.chunk.js.map": "/raspberry-pi-cheat-sheet/static/js/2.bd69b174.chunk.js.map",
+    "static/js/2.5b2a9dbb.chunk.js": "/raspberry-pi-cheat-sheet/static/js/2.5b2a9dbb.chunk.js",
+    "static/js/2.5b2a9dbb.chunk.js.map": "/raspberry-pi-cheat-sheet/static/js/2.5b2a9dbb.chunk.js.map",
     "static/js/3.5dffb7ed.chunk.js": "/raspberry-pi-cheat-sheet/static/js/3.5dffb7ed.chunk.js",
     "static/js/3.5dffb7ed.chunk.js.map": "/raspberry-pi-cheat-sheet/static/js/3.5dffb7ed.chunk.js.map",
     "index.html": "/raspberry-pi-cheat-sheet/index.html",
-    "static/css/main.dba1f31e.chunk.css.map": "/raspberry-pi-cheat-sheet/static/css/main.dba1f31e.chunk.css.map",
-    "static/js/2.bd69b174.chunk.js.LICENSE.txt": "/raspberry-pi-cheat-sheet/static/js/2.bd69b174.chunk.js.LICENSE.txt"
+    "static/css/main.a8443e78.chunk.css.map": "/raspberry-pi-cheat-sheet/static/css/main.a8443e78.chunk.css.map",
+    "static/js/2.5b2a9dbb.chunk.js.LICENSE.txt": "/raspberry-pi-cheat-sheet/static/js/2.5b2a9dbb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3d358c3f.js",
-    "static/js/2.bd69b174.chunk.js",
-    "static/css/main.dba1f31e.chunk.css",
-    "static/js/main.5f440f0c.chunk.js"
+    "static/js/2.5b2a9dbb.chunk.js",
+    "static/css/main.a8443e78.chunk.css",
+    "static/js/main.cc8108fd.chunk.js"
   ]
 }
