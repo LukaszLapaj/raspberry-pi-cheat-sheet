@@ -49,6 +49,10 @@ a {
         background-color: #000000;
     }
 
+    code {
+        color: #ffffff;
+    }
+
     pre {
         background-color: #161b22;
     }
