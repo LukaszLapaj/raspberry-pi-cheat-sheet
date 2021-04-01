@@ -5,6 +5,7 @@ import {useEffect, useState} from "react";
 function App() {
     const [markdownText, setMarkdownText] = useState('');
 
+    const projectUrl = "https://github.com/LukaszLapaj/raspberry-pi-cheat-sheet";
     const readmeUrl = "https://raw.githubusercontent.com/LukaszLapaj/raspberry-pi-cheat-sheet/master/README.md";
     const tableOfContentsRegex = new RegExp("# Table of contents[\\s\\S]*?[\\n](?=#)");
 
@@ -25,6 +26,9 @@ function App() {
         <div className="markdown-container">
             <div className="markdown-container-inner">
                 <ReactMarkdown source={markdownText}/>
+                <div className="footer">
+                    <a href={projectUrl}>View on GitHub</a>
+                </div>
             </div>
         </div>
     );

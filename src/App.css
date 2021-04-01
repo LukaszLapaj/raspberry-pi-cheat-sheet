@@ -39,6 +39,10 @@ a {
     background-color: transparent;
 }
 
+.footer {
+    text-align: center;
+}
+
 @media screen and (prefers-color-scheme: dark) {
     body {
         color: #f0f6fc;
