@@ -47,6 +47,11 @@ arm_64bit=1
 ```
 
 ### Miscellaneous
+#### Prevent HDMI TV from turning on when Raspberry Pi is booting
+```
+hdmi_ignore_cec_init=1
+```
+
 ##### Disable splash screen
 ```
 disable_splash=1
