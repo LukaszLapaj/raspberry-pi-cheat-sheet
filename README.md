@@ -268,7 +268,7 @@ sudo service pihole-FTL restart
 ## Installation
 ##### Preinstalled Raspberry Pi OS repository version is outdated, use version below:
 ```
-curl -sL https://deb.nodesource.com/setup_15.x | sudo -E bash -
+curl -sL https://deb.nodesource.com/setup_16.x | sudo -E bash -
 sudo apt-get install -y nodejs
 ```
 
