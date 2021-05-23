@@ -208,6 +208,11 @@ curl ifconfig.me
 sudo curl -sSL https://install.pi-hole.net | sudo bash
 ```
 
+## Repair install
+```
+pihole reconfigure
+```
+
 ## Set password
 ##### Set password for the dashboard or completely remove it
 ```
