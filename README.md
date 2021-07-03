@@ -5,6 +5,7 @@ List of commands, configurations and tips for Raspberry Pi and Linux beginners. 
 
 * [Raspberry Pi OS / Linux](#raspberry-pi-os--linux)
 * [Pi-hole](#pi-hole)
+* [Git](#git)
 * [Node.js](#nodejs)
 * [Docker](#docker)
 * [Speedtest.net](#speedtestnet)
