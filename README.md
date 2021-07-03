@@ -269,6 +269,19 @@ PIHOLE_DNS_8=62.179.1.63
 sudo service pihole-FTL restart
 ```
 
+# Git
+## Configuration
+##### Create store for user credentials
+```
+git config --global credential.helper store
+```
+
+##### Set account's default identity
+```
+git config --global user.email "lukaszlapaj@interia.pl"
+git config --global user.name "Lukasz Lapaj"
+```
+
 # Node.js
 ## Installation
 ##### Preinstalled Raspberry Pi OS repository version is outdated, use version below:
