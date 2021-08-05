@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/raspberry-pi-cheat-sheet/static/css/main.211dbea4.chunk.css",
-    "main.js": "/raspberry-pi-cheat-sheet/static/js/main.cc8108fd.chunk.js",
-    "main.js.map": "/raspberry-pi-cheat-sheet/static/js/main.cc8108fd.chunk.js.map",
-    "runtime-main.js": "/raspberry-pi-cheat-sheet/static/js/runtime-main.3d358c3f.js",
-    "runtime-main.js.map": "/raspberry-pi-cheat-sheet/static/js/runtime-main.3d358c3f.js.map",
-    "static/js/2.5b2a9dbb.chunk.js": "/raspberry-pi-cheat-sheet/static/js/2.5b2a9dbb.chunk.js",
-    "static/js/2.5b2a9dbb.chunk.js.map": "/raspberry-pi-cheat-sheet/static/js/2.5b2a9dbb.chunk.js.map",
-    "static/js/3.5dffb7ed.chunk.js": "/raspberry-pi-cheat-sheet/static/js/3.5dffb7ed.chunk.js",
-    "static/js/3.5dffb7ed.chunk.js.map": "/raspberry-pi-cheat-sheet/static/js/3.5dffb7ed.chunk.js.map",
+    "main.js": "/raspberry-pi-cheat-sheet/static/js/main.8568163a.chunk.js",
+    "main.js.map": "/raspberry-pi-cheat-sheet/static/js/main.8568163a.chunk.js.map",
+    "runtime-main.js": "/raspberry-pi-cheat-sheet/static/js/runtime-main.95ffd487.js",
+    "runtime-main.js.map": "/raspberry-pi-cheat-sheet/static/js/runtime-main.95ffd487.js.map",
+    "static/js/2.b40c68f1.chunk.js": "/raspberry-pi-cheat-sheet/static/js/2.b40c68f1.chunk.js",
+    "static/js/2.b40c68f1.chunk.js.map": "/raspberry-pi-cheat-sheet/static/js/2.b40c68f1.chunk.js.map",
+    "static/js/3.42509dc8.chunk.js": "/raspberry-pi-cheat-sheet/static/js/3.42509dc8.chunk.js",
+    "static/js/3.42509dc8.chunk.js.map": "/raspberry-pi-cheat-sheet/static/js/3.42509dc8.chunk.js.map",
     "index.html": "/raspberry-pi-cheat-sheet/index.html",
     "static/css/main.211dbea4.chunk.css.map": "/raspberry-pi-cheat-sheet/static/css/main.211dbea4.chunk.css.map",
-    "static/js/2.5b2a9dbb.chunk.js.LICENSE.txt": "/raspberry-pi-cheat-sheet/static/js/2.5b2a9dbb.chunk.js.LICENSE.txt"
+    "static/js/2.b40c68f1.chunk.js.LICENSE.txt": "/raspberry-pi-cheat-sheet/static/js/2.b40c68f1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3d358c3f.js",
-    "static/js/2.5b2a9dbb.chunk.js",
+    "static/js/runtime-main.95ffd487.js",
+    "static/js/2.b40c68f1.chunk.js",
     "static/css/main.211dbea4.chunk.css",
-    "static/js/main.cc8108fd.chunk.js"
+    "static/js/main.8568163a.chunk.js"
   ]
 }
