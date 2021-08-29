@@ -127,7 +127,7 @@ export PATH=<path to be added>:$PATH
 ```
 sudo apt-get update -y && sudo apt-get upgrade -y && sudo apt-get dist-upgrade -y && sudo apt-get autoremove -y && sudo rpi-eeprom-update -a
 ```
-## Read system logs real-time
+## Read system logs in real-time
 ##### List last 30 lines from system logs and updates in real-time
 ```
 tail -f -n 30 /var/log/syslog
@@ -246,7 +246,7 @@ sudo nano /etc/cron.d/pihole
 ```
 0 2 * * *   root    PATH="$PATH:/usr/sbin:/usr/local/bin/" pihole updateGravity >/var/log/pihole_updateGravity.log || cat /var/log/pihole_updateGravity.log
 ```
-##### Which means everyday at 2AM
+##### Which means every day at 2AM
 
 ## Update Gravity
 ##### Download latest blocklists
