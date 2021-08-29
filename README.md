@@ -111,6 +111,17 @@ uptime -s
 uname -a
 ```
 
+## Working with PATH variable
+##### Print PATH variable line by line
+```
+echo $PATH | tr : '\n'.
+```
+
+##### Add to PATH
+```
+export PATH=<path to be added>:$PATH
+```
+
 ## Update / Upgrade everything
 ##### One-liner
 ```
