@@ -207,6 +207,32 @@ sudo apt-key list
 sudo apt-key del "2EBF 997C 15BD A244 B6EB  F5D8 4773 BD5E 130D 1D45"
 ```
 
+## Connectivity
+### Wi-Fi
+##### Scan for nearby Wi-Fi networks
+```
+sudo iwlist wlan0 scan
+```
+
+##### Setup Wi-Fi password through terminal
+```
+sudo nano /etc/wpa_supplicant/wpa_supplicant.conf
+```
+##### Add this entry to the file with changed SSID and Password
+```
+network={
+    ssid="Wi-Fi SSID"
+    psk="WiFI Password"
+    key_mgmt=WPA-PSK
+}
+```
+
+### Bluetooth
+##### Scan for nearby bluetooth devices
+```
+sudo hcitool scan
+```
+
 ## Network
 ##### Check public IP
 ```
