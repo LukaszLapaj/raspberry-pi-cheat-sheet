@@ -25,7 +25,7 @@ function App() {
     return (
         <div className="markdown-container">
             <div className="markdown-container-inner">
-                <ReactMarkdown source={markdownText}/>
+                <ReactMarkdown children={markdownText}/>
                 <div className="footer">
                     <a href={projectUrl}>View on GitHub</a>
                 </div>
